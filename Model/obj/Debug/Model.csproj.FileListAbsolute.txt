@@ -1,0 +1,10 @@
+D:\吴庭智的项目的所有\项目源码\IbatisDemo01\Model\bin\Debug\Model.dll
+D:\吴庭智的项目的所有\项目源码\IbatisDemo01\Model\bin\Debug\Model.pdb
+D:\吴庭智的项目的所有\项目源码\IbatisDemo01\Model\obj\Debug\ResolveAssemblyReference.cache
+D:\吴庭智的项目的所有\项目源码\IbatisDemo01\Model\obj\Debug\Model.dll
+D:\吴庭智的项目的所有\项目源码\IbatisDemo01\Model\obj\Debug\Model.pdb
+D:\博客园技术博客资料\IbatisDemo0120130724\IbatisDemo01\Model\bin\Debug\Model.dll
+D:\博客园技术博客资料\IbatisDemo0120130724\IbatisDemo01\Model\bin\Debug\Model.pdb
+D:\博客园技术博客资料\IbatisDemo0120130724\IbatisDemo01\Model\obj\Debug\ResolveAssemblyReference.cache
+D:\博客园技术博客资料\IbatisDemo0120130724\IbatisDemo01\Model\obj\Debug\Model.dll
+D:\博客园技术博客资料\IbatisDemo0120130724\IbatisDemo01\Model\obj\Debug\Model.pdb
